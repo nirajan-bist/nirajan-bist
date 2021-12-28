@@ -22,7 +22,7 @@ I am Neon Bist, people call me Neon. I am a tech enthusiast & an open-source adv
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
 ##
-<a href="https://github.com/ShishirBhandari">
+<a href="https://github.com/neon-bist">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=neon-bist&count_private=true&show_icons=true&theme=yeblu&bg_color=45,000512,002046" />
 </a>
 
