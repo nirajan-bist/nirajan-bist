@@ -21,11 +21,6 @@ I am Neon Bist, people call me Neon. I am a tech enthusiast & an open-source adv
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=neon-bist&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neon-bist&hide=TeX&layout=compact)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=neon-bist.neon-bist)
-
 ##
 <a href="https://github.com/ShishirBhandari">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=neon-bist&count_private=true&show_icons=true&theme=yeblu&bg_color=45,000512,002046" />
@@ -37,3 +32,9 @@ I am Neon Bist, people call me Neon. I am a tech enthusiast & an open-source adv
 </a>
 -->
 ##
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neon-bist&hide=TeX&layout=compact)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=neon-bist.neon-bist)
+
+
