@@ -25,3 +25,15 @@ I am Neon Bist, people call me Neon. I am a tech enthusiast & an open-source adv
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neon-bist&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=neon-bist.neon-bist)
+
+##
+<a href="https://github.com/ShishirBhandari">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=neon-bist&count_private=true&show_icons=true&theme=yeblu&bg_color=45,000512,002046" />
+</a>
+
+<!--
+<a href="https://github.com/neon-bist?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neon-bist&langs_count=3&theme=yeblu&hide_border=true" />
+</a>
+-->
+##
