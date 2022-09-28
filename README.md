@@ -21,10 +21,6 @@ I am Neon Bist, people call me Neon. I am a tech enthusiast & an open-source adv
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
-##
-<a href="https://github.com/neon-bist">
-    <img align="center" src="http://github-readme-stats-neon-bist.vercel.app/api?username=neon-bist&count_private=true&show_icons=true&theme=yeblu&bg_color=45,000512,002046" />
-</a>
 
 <!--
 <a href="https://github.com/neon-bist?tab=repositories">
