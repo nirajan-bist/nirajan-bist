@@ -24,13 +24,13 @@ I am Neon Bist, people call me Neon. I am a tech enthusiast & an open-source adv
 
 <!--
 <a href="https://github.com/neon-bist?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neon-bist&langs_count=3&theme=yeblu&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirajan-bist&langs_count=3&theme=yeblu&hide_border=true" />
 </a>
 -->
 ##
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neon-bist&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nirajan-bist&hide=TeX&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=neon-bist.neon-bist)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=nirajan-bist.nirajan-bist)
 
 
