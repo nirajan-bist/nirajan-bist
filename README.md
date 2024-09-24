@@ -1,6 +1,6 @@
 ## Fancy seeing you here! 
 
-I am Neon Bist, people call me Neon. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+I am Nirajan Bist, people call me Neon. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 
 ## ⚡ Technologies
